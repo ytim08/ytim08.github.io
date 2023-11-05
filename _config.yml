@@ -21,10 +21,10 @@
 title: Tim's Portfolio
 email: ytim08@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Showcasing my projects and interests.
+  My projects and interests.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ytim08.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: user
+twitter_username: cancelme
 github_username:  ytim08
 
 #domain: ytim08.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
